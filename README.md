@@ -55,6 +55,6 @@ está diseñada.
 3. Clic derecho en index.html (de cada parte) → "Open with Live Server"
 
 ## Capturas de pantalla
-![Tablero de tareas](parte-1-tablero-tareas/img/captura-01.png)
-![Formulario - validación de errores](parte-2-formulario-colaborador/img/captura-01.png)
-![Formulario - registro exitoso](parte-2-formulario-colaborador/img/captura-02.png)
+![Tablero de tareas](/parte-1-tablero-tareas/img/captura-01.png)
+![Formulario - validación de errores](/parte-2-formulario-colaborador/img/captura-01.png)
+![Formulario - registro exitoso](/parte-2-formulario-colaborador/img/captura-02.png)
